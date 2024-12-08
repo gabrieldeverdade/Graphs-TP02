@@ -74,4 +74,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## 🧑‍💻 Autor
 - Bernardo D'Ávila
 - Pedro Henrique Moreira
-- Gabriel Fernandes Azevedo
+- Gabriel Azevedo Fernandes
